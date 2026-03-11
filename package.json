@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/command-project-PawHut/",
+    "build": "vite build --base=/js_124_YuriiDavydiuk/",
     "preview": "vite preview"
   },
   "devDependencies": {
